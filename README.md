@@ -14,13 +14,13 @@ BG_素材名稱_類別(far、medium、forward、object)\
 **範例**\
 BG_meadow_forward
 ### 立繪
-portrait_角色_差分(表情)_編號\
+Portrait_角色_差分(表情)_編號\
 \
 **範例**\
-portrait_Aldonza_happy_001
+Portrait_Aldonza_happy_001
 \
 \*若只有一張就不用編號\
-portrait_DuckNude_normal
+Portrait_DuckNude_normal
 ### 劇情演出(CG、漫畫的部分)
 CG/Comic_素材名稱_編號\
 \
