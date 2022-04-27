@@ -9,10 +9,10 @@ Anim_Duck_Attack1st_001\
 \*若不是逐格則不用編號\
 Anim_Duck
 ### 背景
-Background_素材名稱_類別(遠景、中景、前景、物件)\
+BG_素材名稱_類別(far、medium、forward、object)\
 \
 **範例**\
-Background_meadow_forward
+BG_meadow_forward
 ### 立繪
 portrait_角色_差分(表情)_編號\
 \
