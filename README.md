@@ -34,7 +34,7 @@ UI_功能_素材名稱\
 **範例**\
 UI_HpBar_background
 ## 音樂素材
-Music_應用場景(title/battlefield/drama/final)_素材名稱_檔案種類_版本號
+Music_應用場景(title/battlefield/drama/final)_素材名稱_檔案種類(loop/stinger/transition)_版本號
 \
 **範例**\
 Music_battlefield_Test_Loop_v1
